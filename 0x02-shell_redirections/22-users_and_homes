@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -f1,6
+grep -f 1,6
